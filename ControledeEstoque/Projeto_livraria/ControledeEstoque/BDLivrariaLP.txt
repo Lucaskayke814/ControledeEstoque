@@ -1,0 +1,7 @@
+CREATE TABLE cadastro (
+  id_cadastro SERIAL PRIMARY KEY,
+  nome VARCHAR(255),
+  quantidade INT,
+  val_unit float,
+  dta date
+);

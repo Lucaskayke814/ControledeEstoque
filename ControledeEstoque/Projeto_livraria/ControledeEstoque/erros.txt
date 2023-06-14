@@ -1,0 +1,37 @@
+SQLState: 23505
+Error Code: 0
+Message: ERROR: duplicate key value violates unique constraint "cadastro_pkey"
+  Detalhe: Key (id_cadastro)=(51) already exists.
+NumberFormatException: For input string: ""
+NumberFormatException: For input string: ""
+NumberFormatException: For input string: ""
+NumberFormatException: For input string: "0,50"
+novo produto cadastrado :INSERT INTO cadastro  (id_cadastro, nome, quantidade, val_unit, dta) VALUES  ('caneta', 50, 0.5, '2023-05-21 -03', ?)
+SQLState: 22023
+Error Code: 0
+Message: Nenhum valor especificado para parâmetro 5.
+novo produto cadastrado :INSERT INTO cadastro  (nome, quantidade, val_unit, dta) VALUES  ('caneta', 50, 0.5, '2023-06-21 -03')
+SQLState: 23505
+Error Code: 0
+Message: ERROR: duplicate key value violates unique constraint "cadastro_pkey"
+  Detalhe: Key (id_cadastro)=(1) already exists.
+novo produto cadastrado :INSERT INTO cadastro  (nome, quantidade, val_unit, dta) VALUES  ('caneta', 50, 0.5, '2023-05-21 -03')
+NumberFormatException: For input string: ""
+SQLState: 23505
+Error Code: 0
+Message: ERROR: duplicate key value violates unique constraint "cadastro_pkey"
+  Detalhe: Key (id_cadastro)=(3) already exists.
+NumberFormatException: For input string: "0,50"
+SQLState: 23505
+Error Code: 0
+Message: ERROR: duplicate key value violates unique constraint "cadastro_pkey"
+  Detalhe: Key (id_cadastro)=(4) already exists.
+SQLState: 23505
+Error Code: 0
+Message: ERROR: duplicate key value violates unique constraint "cadastro_pkey"
+  Detalhe: Key (id_cadastro)=(5) already exists.
+NumberFormatException: For input string: "0,50"
+SQLState: 22P02
+Error Code: 0
+Message: ERROR: invalid input syntax for type integer: "a"
+  Posição: 44

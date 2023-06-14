@@ -1,0 +1,5 @@
+Novo produto cadastrado :Nome do produto: caneta
+Quantidade: 50
+ Valor: 0.5
+ Data: 2023-06-21
+O Produto com id: 1 Deletado com sucesso!!

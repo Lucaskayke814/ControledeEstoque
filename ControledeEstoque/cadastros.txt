@@ -1,0 +1,103 @@
+Novo produto cadastrado :Nome do produto: caneta
+Quantidade: 10
+ Valor: 0.5
+ Data: 2023-06-04
+-----------------------------------
+O Produto com id: 3 ,Deletado com sucesso!!
+O Produto com id: 5 ,Deletado com sucesso!!
+O Produto com id: 7 ,Deletado com sucesso!!
+O Produto com id: 4 ,Deletado com sucesso!!
+O Produto com id: 15 ,Deletado com sucesso!!
+O Produto com id: 51 ,Deletado com sucesso!!
+O Produto com id: 78 ,Deletado com sucesso!!
+O Produto com id: 81 ,Deletado com sucesso!!
+O Produto com id: 52 ,Deletado com sucesso!!
+O Produto com id: 2 ,Deletado com sucesso!!
+Novo produto cadastrado :Nome do produto: caneta
+Quantidade: 500
+ Valor: 1.0
+ Data: 2023-06-04
+-----------------------------------
+Novo produto cadastrado :Nome do produto: lapis
+Quantidade: 50
+ Valor: 0.5
+ Data: 2023-06-04
+-----------------------------------
+Novo produto cadastrado :Nome do produto: Lapis
+Quantidade: 50
+ Valor: 0.5
+ Data: 2023-02-21
+-----------------------------------
+Novo produto cadastrado :Nome do produto: Lapis
+Quantidade: 50
+ Valor: 0.5
+ Data: 2023-02-21
+-----------------------------------
+Novo produto cadastrado :Nome do produto: lapis
+Quantidade: 50
+ Valor: 0.5
+ Data: 2023-06-21
+-----------------------------------
+Novo produto cadastrado :Nome do produto: lapis
+Quantidade: 50
+ Valor: 0.5
+ Data: 2023-05-21
+-----------------------------------
+O Produto com id: 1 ,Deletado com sucesso!!
+Novo Fornecedor cadastrado :Nome do fornecedor: lucas
+CNPJ : 123464
+-----------------------------------
+Novo Fornecedor cadastrado :Nome do fornecedor: LUCAS
+CNPJ : 123456789
+-----------------------------------
+Novo Fornecedor cadastrado :Nome do fornecedor: Gustavo
+CNPJ : 427367390
+-----------------------------------
+Novo Fornecedor cadastrado :Nome do fornecedor: lucas
+CNPJ : 42.736.739/0001-06
+-----------------------------------
+Novo Fornecedor cadastrado :Nome do fornecedor: lucas
+CNPJ : 42.736.739/0001-06
+-----------------------------------
+Novo Fornecedor cadastrado :Nome do fornecedor: lucas
+CNPJ : 42736739000106
+-----------------------------------
+Novo Fornecedor cadastrado :Nome do fornecedor: Gustavo
+CNPJ : 42736739000106
+-----------------------------------
+Novo Fornecedor cadastrado :Nome do fornecedor: lucas
+CNPJ : 42736739000106
+-----------------------------------
+Novo produto cadastrado :Nome do produto: lapis
+Quantidade: 50
+ Valor: 0.5
+ Data: 2023-06-21
+Fornecedor: lucas
+-----------------------------------
+Novo Fornecedor cadastrado :Nome do fornecedor: FaberCastell
+CNPJ : 42736739000106
+-----------------------------------
+Novo produto cadastrado :Nome do produto: lapis
+Quantidade: 501
+ Valor: 0.5
+ Data: 2023-05-21
+Fornecedor: FaberCastell
+-----------------------------------
+Novo Fornecedor cadastrado :Nome do fornecedor: Positivo
+CNPJ : 32319823000170
+-----------------------------------
+Novo produto cadastrado :Nome do produto: lapis
+Quantidade: 50
+ Valor: 0.5
+ Data: 2033-05-21
+Fornecedor: Positivo
+-----------------------------------
+Novo Fornecedor cadastrado :Nome do fornecedor: Madereira lopes
+CNPJ : 06738035000109
+-----------------------------------
+Novo produto cadastrado :Nome do produto: Papel
+Quantidade: 900
+ Valor: 0.1
+ Data: 2023-06-14
+Fornecedor: Madereira lopes
+-----------------------------------
